@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void llamadaTelefono(View view){
-        Intent i = new Intent(Intent.ACTION_CALL);
+        Intent i = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:"));
         startActivity(i);
     }
 
