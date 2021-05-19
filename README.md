@@ -24,6 +24,7 @@
 <img width="350" height="600" src="https://github.com/Valle8/Ejercicio305/blob/main/Images/Camara%20del%20emulador.png"/>
 * Al pulsar el botón para mandar un correo :
  <p>Estos son los ajustes que le he puesto yo, pero si vaciamos las strings del código simplemente nos abrirá la bandeja para enviar lista para introducir los datos.(Si no tienes ninguna cuenta de correo vinculada, antes deberás iniciar sesión con ella).</p>
+ </br>
  <div>
 <img width="350" height="600" src="https://github.com/Valle8/Ejercicio305/blob/main/Images/Boton%20correo.png"/>
 <img width="500" height="250" src="https://github.com/Valle8/Ejercicio305/blob/main/Images/codigo.png"/>
