@@ -36,3 +36,5 @@ Este seria el [Layout](https://github.com/Valle8/Ejercicio305/blob/main/Ejercici
 </br>
 Este seria el [AndroidManifest](https://github.com/Valle8/Ejercicio305/blob/main/Ejercicio305/app/src/main/AndroidManifest.xml) , necesario para dar permisos a la aplicación.
 
+# Compatibilidad
+Compatible con Android 5.0 Lollipop (API 21) en adelante.
