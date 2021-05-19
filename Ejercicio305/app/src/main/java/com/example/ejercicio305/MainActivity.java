@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void usarMaps(View view){
-        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:38.915833, -6.333333"));
+        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:37.407695622531044, -4.4797421708025364"));
         startActivity(i);
     }
     public void sacarFoto(View view) {
