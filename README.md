@@ -39,3 +39,8 @@ Este seria el [AndroidManifest](https://github.com/Valle8/Ejercicio305/blob/main
 
 # Compatibilidad
 Compatible con Android 5.0 Lollipop (API 21) en adelante.
+
+# Fuentes
+[Android Studio Developers](https://developer.android.com/guide/components/intents-common?hl=es-419)
+</br>
+[Ejercicio 305](https://github.com/franlu/curso_android_uned/tree/master/tema03/Ejercicio305/app)
